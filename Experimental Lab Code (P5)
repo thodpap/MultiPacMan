@@ -1,3 +1,4 @@
+//Sketch
 var cols, rows;
 var w = 20;
 var grid = [];
