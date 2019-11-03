@@ -8,6 +8,6 @@ function Wall(x,y,w){
 	}
 }
 
-function constructWalls(){
+function constructMaze(){
 	
 }

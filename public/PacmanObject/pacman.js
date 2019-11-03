@@ -1,9 +1,9 @@
-function PackMan(x,y,r,color){
+function PackMan(x,y,r,img){
 	this.score = 0;
 	this.x = x;
 	this.y = y;
 	this.r = r;
-	this.color = color;
+	this.img = img;
 	this.dx = 0;
 	this.dy = 0;
 
