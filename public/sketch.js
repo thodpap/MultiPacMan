@@ -1,3 +1,6 @@
+function preload(){
+	// packman_img = loadImage("../images/test.png");
+}
 function setup() {
 	createCanvas(width,height);
 	packman = new PackMan(200,200,50,'yellow');
@@ -20,7 +23,7 @@ function draw() {
 			food[i].show();
 		}
 	} 
-	for(let i = 0; i < wall.length; i++){
-		wall[i].show();
+	for(let i = 0; i < Maze.length; i++){
+		Maze[i].show();
 	}
 } 

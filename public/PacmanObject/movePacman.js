@@ -11,3 +11,4 @@ function keyPressed(){
 	else if(keyCode === DOWN_ARROW){
 		packman.move(0,1);
 	}
+}

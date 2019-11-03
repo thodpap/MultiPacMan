@@ -5,4 +5,4 @@ var packman;
 var velocity = 5;
 
 let food = []; 
-let wall = [];
+let Maze = [];
