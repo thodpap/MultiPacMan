@@ -1,5 +1,5 @@
 function preload(){
-	packman_img = loadImage("public/images/packman.png");
+	// packman_img = loadImage("public/images/packman.png");
 }
 function setup() {
 	createCanvas(width,height);
